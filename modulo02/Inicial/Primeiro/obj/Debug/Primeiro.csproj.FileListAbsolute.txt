@@ -1,0 +1,10 @@
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\bin\Debug\Primeiro.exe.config
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\bin\Debug\Primeiro.exe
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\bin\Debug\Primeiro.pdb
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\obj\Debug\Primeiro.Form1.resources
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\obj\Debug\Primeiro.Properties.Resources.resources
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\obj\Debug\Primeiro.csproj.GenerateResource.cache
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\obj\Debug\Primeiro.exe
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo02\Inicial\Primeiro\obj\Debug\Primeiro.pdb

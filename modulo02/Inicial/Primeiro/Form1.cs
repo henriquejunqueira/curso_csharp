@@ -14,8 +14,6 @@ namespace Primeiro
     {
         public Form1()
         {
-            int numero = 0;
-            numero = 10;
             InitializeComponent();
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo03\Comentarios\Comentarios\bin\Debug\Comentarios.exe.config
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo03\Comentarios\Comentarios\bin\Debug\Comentarios.exe
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo03\Comentarios\Comentarios\bin\Debug\Comentarios.pdb
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo03\Comentarios\Comentarios\obj\Debug\Comentarios.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo03\Comentarios\Comentarios\obj\Debug\Comentarios.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo03\Comentarios\Comentarios\obj\Debug\Comentarios.exe
+C:\Users\Henrique\Documents\Projetos\desenvolvimento\curso_csharp\modulo03\Comentarios\Comentarios\obj\Debug\Comentarios.pdb
